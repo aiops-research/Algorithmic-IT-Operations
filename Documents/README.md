@@ -1,4 +1,4 @@
-# Steps
+# Day Wise work
 
 # 09 Jan 2021
 1. Identified various log data sets - Apache, HDFS, Hadoop, SSH etc
